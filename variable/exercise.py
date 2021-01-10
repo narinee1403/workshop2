@@ -25,7 +25,7 @@ my_first_name = "John"
 
 6.Insert the correct syntax to assign the same value to all three variables in one code line.
 
-x __ y __ z = "Orange"
+x=y=z = "Orange"
 
 7.Insert the correct keyword to make the variable x belong to the global scope.
 
