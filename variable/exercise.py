@@ -21,7 +21,7 @@ print(z)
 
 5.Remove the illegal characters in the variable name:
 
-2my-first_name = "John"
+my_first_name = "John"
 
 6.Insert the correct syntax to assign the same value to all three variables in one code line.
 
@@ -30,5 +30,5 @@ x __ y __ z = "Orange"
 7.Insert the correct keyword to make the variable x belong to the global scope.
 
 def myfunc():
-  ___ x
+  golbal x
   x = "fantastic" 
