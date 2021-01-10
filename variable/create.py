@@ -4,6 +4,7 @@ Weight = 45.3  # float
 can_walk = True  # true/false
 can_run = False  # true/false
 is_dog = False  # true/false
+
 print(name)
 print(age)
 print(Weight)
